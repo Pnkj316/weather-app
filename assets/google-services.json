@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179447600627",
+    "project_id": "houszscore",
+    "storage_bucket": "houszscore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179447600627:android:ef13972c53a86b1a5e2e86",
+        "android_client_info": {
+          "package_name": "com.example.houszscore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy0kk9vQRbTebboOldT_u7fuOuNCZNRPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
